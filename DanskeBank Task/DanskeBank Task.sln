@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DanskeBank Task", "DanskeBank Task.csproj", "{E6FA80B6-2D7F-4E73-A789-2759C46A303D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DanskeBank Task.Tests", "..\DanskeBank Task.Tests\DanskeBank Task.Tests.csproj", "{8B9FA860-9781-4479-B2D3-EBF70556A2F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6FA80B6-2D7F-4E73-A789-2759C46A303D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FA80B6-2D7F-4E73-A789-2759C46A303D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FA80B6-2D7F-4E73-A789-2759C46A303D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FA80B6-2D7F-4E73-A789-2759C46A303D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9FA860-9781-4479-B2D3-EBF70556A2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9FA860-9781-4479-B2D3-EBF70556A2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9FA860-9781-4479-B2D3-EBF70556A2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9FA860-9781-4479-B2D3-EBF70556A2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D44F01C4-19A9-4D7C-97FE-773C77289D52}
+	EndGlobalSection
+EndGlobal
