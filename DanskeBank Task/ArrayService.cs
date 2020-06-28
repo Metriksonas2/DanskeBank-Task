@@ -99,7 +99,7 @@ namespace DanskeBank_Task
 
             reachable = isReachable ? "Reachable" : "Not reachable";
 
-            if (valid)
+            if (valid && !ArrayContains(numArray, conString))
             {
                 using (SqlConnection myConnection = new SqlConnection(conString))
                 {
@@ -112,6 +112,46 @@ namespace DanskeBank_Task
                     oCmd.ExecuteNonQuery();
                     myConnection.Close();
                 }
+            }
+        }
+
+        public static void DeleteArray(int id, string conString)
+        {
+            using (SqlConnection myConnection = new SqlConnection(conString))
+            {
+                myConnection.Open();
+
+                SqlCommand sqlCommand = new SqlCommand("DeleteArrayByID", myConnection);
+                sqlCommand.CommandType = CommandType.StoredProcedure;
+
+                sqlCommand.Parameters.AddWithValue("@ArrayID", id);
+                sqlCommand.ExecuteNonQuery();
+                myConnection.Close();
+            }
+        }
+
+        public static bool ArrayContains(string array, string conString)
+        {
+            bool any = false;
+
+            using (SqlConnection myConnection = new SqlConnection(conString))
+            {
+                SqlCommand oCmd = new SqlCommand("ViewArrayByArray", myConnection);
+                oCmd.CommandType = CommandType.StoredProcedure;
+                oCmd.Parameters.AddWithValue("@Array", array);
+                myConnection.Open();
+                using (SqlDataReader oReader = oCmd.ExecuteReader())
+                {
+                    while (oReader.Read())
+                    {
+                        any = true;
+                        break;
+                    }
+
+                    myConnection.Close();
+                }
+
+                return any;
             }
         }
     }

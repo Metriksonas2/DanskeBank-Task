@@ -1,0 +1,46 @@
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\DanskeBank Task.Tests.dll.config
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\DanskeBank Task.Tests.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\DanskeBank Task.Tests.pdb
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\DanskeBank Task.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\nunit.framework.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\WebGrease.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\DanskeBank Task.pdb
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\DanskeBank Task.dll.config
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\nunit.framework.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\obj\Debug\DanskeBank Task.Tests.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\obj\Debug\DanskeBank Task.Tests.csproj.CopyComplete
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\obj\Debug\DanskeBank Task.Tests.dll
+C:\Users\erika\Desktop\Programming\Repositories\DanskeBank-Task\DanskeBank Task.Tests\obj\Debug\DanskeBank Task.Tests.pdb

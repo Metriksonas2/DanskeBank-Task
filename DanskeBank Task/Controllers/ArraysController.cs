@@ -41,6 +41,7 @@ namespace DanskeBank_Task.Controllers
         // DELETE: api/Arrays/5
         public void Delete(int id)
         {
+            ArrayService.DeleteArray(id, conString);
         }
     }
 }
